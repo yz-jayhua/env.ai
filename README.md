@@ -15,5 +15,6 @@ Python 3.7
 3. 3D intelligent instant recognition based on Mediapipe
 
 
-<br>
-If you need to know the details of model training, you can ask me about anything [here](https://github.com/JayITH/JayITH/issues).
+
+
+## If you need to know the details of model training, you can ask me about anything [here](https://github.com/JayITH/JayITH/issues).
