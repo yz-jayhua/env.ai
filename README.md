@@ -1,4 +1,4 @@
-# env.ai
+# env.ai🚀
 
 This is about environmentally relevant and out-of-the-box AI applications 🙌
 
